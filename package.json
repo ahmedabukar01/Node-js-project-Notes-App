@@ -1,0 +1,22 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedabukar01/Node-js-project-Notes-App.git"
+  },
+  "author": "ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedabukar01/Node-js-project-Notes-App/issues"
+  },
+  "homepage": "https://github.com/ahmedabukar01/Node-js-project-Notes-App#readme",
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
+}
